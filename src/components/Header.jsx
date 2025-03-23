@@ -14,7 +14,7 @@ export default function Header() {
                 <nav>
                     <ul>
                         <li><a href="/artistes">Artistes</a></li>
-                        <li><a href="/evenements">Évènements</a></li>
+                        <li><a href="/events">Évènements</a></li>
                     </ul>
                 </nav>
             </div>
