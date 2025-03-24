@@ -4,6 +4,12 @@
 
 EventifyListener est une application en React + ViteJs qui pour objectif d'écouter l'api de l'application [Eventify](https://github.com/EmilPhOniX/Eventify)
 
+## Auteurs
+*  [ab-x-cd](https://github.com/ab-x-cd)
+*  [EmilPhOniX](https://github.com/emilphonix)
+*  [AmauryCelarier](https://github.com/AmauryCelarier)
+*  [JordanDupuy](https://github.com/JordanDupuy)
+
 ### Pré-requis
 
 Ce qu'il est requis pour commencer avec votre projet...
@@ -34,9 +40,3 @@ npm run dev
 
 ## Fabriqué avec
 Cette application à été créé avec React ViteJs
-
-## Auteurs
-*  [ab-x-cd](https://github.com/ab-x-cd)
-*  [EmilPhOniX](https://github.com/emilphonix)
-*  [AmauryCelarier](https://github.com/AmauryCelarier)
-*  [JordanDupuy](https://github.com/JordanDupuy)
