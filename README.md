@@ -37,5 +37,6 @@ Cette application à été créé avec React ViteJs
 
 ## Auteurs
 *  [ab-x-cd](https://github.com/ab-x-cd)
+*  [EmilPhOniX](https://github.com/emilphonix)
 *  [AmauryCelarier](https://github.com/AmauryCelarier)
 *  [JordanDupuy](https://github.com/JordanDupuy)
