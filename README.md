@@ -1,12 +1,41 @@
-# React + Vite
+# EventifyListener
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![forthebadge](https://forthebadge.com/images/badges/made-with-react.svg)
 
-Currently, two official plugins are available:
+EventifyListener est une application en React + ViteJs qui pour objectif d'écouter l'api de l'application [Eventify](https://github.com/EmilPhOniX/Eventify)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Pré-requis
 
-## Expanding the ESLint configuration
+Ce qu'il est requis pour commencer avec votre projet...
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Visual Studio Code ou un autre IDE
+- git
+- node.js
+
+## Pour commencer
+
+- Clonez le repository :
+```bash
+git clone https://github.com/EmilPhOniX/EventifyListener
+```
+
+### Installation
+Pour lancer avec le projet, exécutez la commande :
+- Installez les dépendances : 
+```bash
+npm install
+```
+
+## Utilisation
+Pour démarrer l'application en mode développeur, utilisez la commande :
+```bash
+npm run dev
+```
+
+## Fabriqué avec
+Cette application à été créé avec React ViteJs
+
+## Auteurs
+*  [ab-x-cd](https://github.com/ab-x-cd)
+*  [AmauryCelarier](https://github.com/AmauryCelarier)
+*  [JordanDupuy](https://github.com/JordanDupuy)
